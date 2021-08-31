@@ -1,3 +1,4 @@
+﻿//64011041 กฤตพร บุริยเมธากุล
 #include<stdio.h>
 
 int isPrime(int);
